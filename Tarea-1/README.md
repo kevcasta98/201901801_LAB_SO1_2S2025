@@ -2,6 +2,7 @@
 ## Kevin Eduardo Castañeda Hernández
 ## 201901801
 ---
+### Para la realizacion de esta tarea hice uso de KillerKoda debido a problemas con mi computadora.
 # Tabla de comandos utilizados
 | Comando   | Descripción                                                                 | Ejemplo de uso                        |
 |-----------|-----------------------------------------------------------------------------|---------------------------------------|
