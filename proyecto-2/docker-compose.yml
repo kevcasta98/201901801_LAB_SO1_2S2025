@@ -1,0 +1,19 @@
+version: "3.9"
+services:
+  api1:
+    build: ./Api1
+    container_name: api1
+    ports:
+      - "8081:8081"
+
+  api2:
+    build: ./Api2
+    container_name: api2
+    ports:
+      - "8082:8082"
+
+  api3:
+    build: ./Api3
+    container_name: api3
+    ports:
+      - "8083:8083"
